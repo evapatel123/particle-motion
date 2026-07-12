@@ -12,7 +12,7 @@ An interactive particle animation built with **HTML5 Canvas** **CSS** and **Java
 ## Features
 
 - Real-time particle animation
-- Smooth motion using `requestAnimationFrame()`
+- Smooth motion using `requestAnimationFrame()`.
 - Dynamic rendering with the HTML5 Canvas API
 - Lightweight and responsive
 - Built with vanilla JavaScript
