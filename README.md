@@ -1,4 +1,4 @@
-# Particle Motion
+# Particle Motion v1.0
 
 An interactive particle animation built with **HTML5 Canvas** and **JavaScript** that demonstrates real-time rendering, dynamic motion, and browser-based graphics.
 
